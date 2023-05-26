@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Welcome {
 
-    //Solution for exercise 3.5
+    //Solution for exercise 3.5.2
 
     public static void main(String args[]){
 

@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Agent {
 
-    //Solution for exercise 3.5
+    //Solution for exercise 3.5.1
 
     final static int PASSWORD = 133976;
 
