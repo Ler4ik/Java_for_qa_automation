@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class AverageInSequence {
 
-    //Solution for exercise 3.5.5
+    //Solution for exercise 3.5.6
 
     public static void main(String args[]){
 
