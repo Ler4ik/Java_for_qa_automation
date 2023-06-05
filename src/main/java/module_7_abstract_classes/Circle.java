@@ -1,6 +1,6 @@
 package module_7_abstract_classes;
 
-public class Circle {
+public class Circle extends Figure {
 
     Point center;
     long radius;
@@ -10,10 +10,12 @@ public class Circle {
         this.radius = radius;
     }
 
+    @Override
     public double area(){
-        return 2 * Math.PI * this.radius;
+        return Math.PI * this.radius * this.radius;
     }
 
+    @Override
     public String pointsToString(){
         return center.toString();
     }
