@@ -1,2 +1,2 @@
 # Java_for_qa_automation
-Практика курса https://stepik.org/course/119500
+Практика по курсу https://stepik.org/course/119500
